@@ -1,0 +1,260 @@
+
+
+.mains{
+    display: flex;
+    margin-top: 150px;
+    align-items: center;
+    position: relative;
+    gap: 40px;
+    padding: 30px 20px;
+    background-color: #FBFBFB;
+}
+
+.hero-span{
+    height: 187px;
+    border: 1px solid #46A3581A;
+}
+
+
+
+ .group {
+    left: 44px;
+    top: 50px;
+    width: 55px;
+    height: 48px;
+    position: absolute;
+}
+
+.doira-texts{
+    width: 217px;
+    height: 201px;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 9px;
+}
+
+
+.hero-p2{
+        display: flex
+;
+    align-items: center;
+    justify-content: center;
+}
+
+.kaktus {
+    position: absolute;
+    left: 285px;
+    top: 13px;
+}
+
+.choynak {
+    position: absolute;
+    top: 14px;
+    left: 530px;
+
+}
+
+
+.hero-input{
+    width: 324px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+
+.hero-p{
+    width: 300px;
+}
+
+.hero-button{
+    width: 85px;
+    height: 40px;
+    background-color: #46A358;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.frame {
+    bottom: 210px;
+    left: 42px;
+    width: 61px;
+    height: 46px;
+    position: absolute;
+
+} */
+
+
+
+
+
+
+
+.doira{
+    width: 74px;
+    height: 74px;
+    margin-bottom: 13px;
+}
+
+.doira1{
+    width: 74px;
+    height: 74px;
+}
+
+.main-h3{
+    font-size: 17px;
+    line-height: 16px;
+    font-weight: 700;
+    width: 200%;
+}
+
+.main-an{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    width: 260%;
+}
+
+
+.hero-1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+     width: 270px;
+}
+
+.main-ans{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    width: 230%;
+}
+
+
+
+.main-h2{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+}
+
+.main-input{
+    display: flex;
+}
+
+.main-4 input{
+    width: 354px;
+    height: 40px ;
+    border-radius: 10px 0 0 10px;
+    border: none;
+    
+}
+
+.we{
+    width: 86%;
+}
+
+.main-4 button{
+    width: 85px;
+    height: 40px;
+    background-color: #46A358;
+    color: #fff;
+    border-radius: 0 10px 10px 0;
+    border: none;
+}
+
+.hero-4{
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+}
+
+.hero-logo{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    gap: 50px;
+    height: 90px;
+    background-color: #46A3581A;
+}
+
+.lacation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.laca{
+    width: 50%;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    color: #3D3D3D;
+}
+
+.message{
+    display: flex;
+    gap: 10px;
+    align-items:center;
+}
+
+.calling{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.footer{
+    padding-bottom: 30px;
+}
+
+.hero-footer{
+    display: flex;
+    gap: 180px;
+    background-color: #FBFBFB;
+    padding: 30px 20px;
+}
+
+.account{
+    font-size: 18px;
+    line-height: 16px;
+    font-weight: 700;
+
+}
+
+.class{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.fulls{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+.imgs{
+  padding: 10px 10px;
+  border: 1px solid #46A35833;
+  border-radius: 10px;
+}
+
+
+.imgess{
+    border: 1px solid #46A35833;
+    border-radius: 10px;
+    padding: 10px 14px;
+}
+
+.fulls-img{
+    display: flex;
+    gap: 20px;
+}
