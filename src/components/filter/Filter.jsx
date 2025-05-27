@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Slider } from "antd";
 import 'antd/dist/reset.css';
-import "./filter.css";
+import "./Filter.css";
 import Mockdata from "../../Data/data";
 
 function Filter() {
