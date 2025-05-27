@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import Navbar from "./components/navbar/Navbar";
-import Filter from "./components/Filter/Filter";
-import Feature from "./components/Feature/Feature";
+import Filter from "./components/filter/Filter";
+import Feature from "./components/Feature/feature";
 import Footer from "./components/Footer/Footer";
 import Hero from "./components/Hero/hero";
 import Search from "./pages/Search";
